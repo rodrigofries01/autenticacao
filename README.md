@@ -11,4 +11,4 @@
   - A segunda para gerenciar a manipulação de dados das séries;
   - E a última para gerenciar a manipulação de dados dos filmes;
  
-    Todos os micro-serviços feito com SpringBoot, para salvar os dados é usado o banco H2;
+  - Todos os micro-serviços feito com SpringBoot, para salvar os dados é usado o banco H2;
